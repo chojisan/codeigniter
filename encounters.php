@@ -15,12 +15,7 @@ d
 sfdfs
 ds
 fsdsfdsfdsf
-sdffd
-sfdfssdf
-sfdfssdffsd
 fsdsfdsfsdfd
-sfdfssdfsdf
-dsfs
 
 
 this is the way!
