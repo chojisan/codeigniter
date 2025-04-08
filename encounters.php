@@ -18,15 +18,9 @@ d
 sfdfs
 ds
 fsdsfdsfdsf
-sdffd
-sfdfssdf
-sfdfssdffsd
 fsdsfdsfsdfd
-sfdfssdfsdf
-dsfs
 
 
-dsfsfsdfsd
-fsd
-sfdfssdfsdfsdf
-sfdfssdfsdfsddf
+
+this is the way!
+
